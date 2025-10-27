@@ -1,6 +1,6 @@
 # Week 2 Upsolve
 
-## [Upsolve Video]()
+## [Upsolve Video](https://drive.google.com/file/d/11ySPFYubmGnvziCjuKEvY3e6CefkN1KF/view?usp=sharing)
 
 ## Problems
   - A [Link](https://codeforces.com/group/h76YpxMls5/contest/645214/problem/A) [Solution](./a.cpp) 
